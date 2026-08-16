@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mhaseeb7020-creator.github.io/yo-yo-honey-singh/sitemap.xml
